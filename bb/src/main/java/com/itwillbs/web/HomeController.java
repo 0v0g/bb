@@ -36,6 +36,10 @@ public class HomeController {
 		return "home";
 	}
 	
+	public void test() {
+		
+	}
+	
 	public void test22() {
 		logger.debug("하...;;;");
 	}
